@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: #f4b8c1;
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+.modal-content {
+  background: transparent !important;
+  border: none !important;
+}
